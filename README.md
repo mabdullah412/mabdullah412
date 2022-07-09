@@ -17,7 +17,7 @@ I am a Junior Year Computer Science Student at Ghulam Ishaq Khan Institute (GIKI
 * 💻 HTML, CSS, Bootstrap, CSS
 * 👩‍💻 NodeJS, ExpressJS, MongoDB
 
-## Languages and Tools
+<!-- ## Languages and Tools -->
 
 ## My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=killswitch412&repo=online-event-service-marketplace-flutter&theme=dracula)](https://github.com/KillSwitch412/online-event-service-marketplace-flutter)
