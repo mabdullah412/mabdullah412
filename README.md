@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/killswitch412#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/killswitch412#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/killswitch412)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/killswitch412)
 
 <!---
 KillSwitch412/KillSwitch412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
