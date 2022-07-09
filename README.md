@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Muhammad Abdullah
+# Hi there, I'm Abdullah 👋
 
 I am a Junior Year Computer Science Student at Ghulam Ishaq Khan Institute (GIKI), Pakistan.
 - 🥅 2022 Goal: Become an expert flutter developer
