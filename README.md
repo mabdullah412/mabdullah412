@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Muhammad Abdullah. Future computer scientist and currently a sophomore at Ghulam Ishaq Khan Institute (GIKI), Pakistan.
-- 👀 I’m interested in development side with web and app development using flutter.
-- 🌱 I’m currently learning flutter.
-<!--
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+### Hi there, My name is Muhammad Abdullah 👋
+
+## I am a Junior Year University Student
+- 👨‍🎓 I am persuing Computer Science Degree at Ghulam Ishaq Khan Institute of Engineering (GIKI), Pakistan
+- 👀 I’m interested in development side with web and app development using flutter
+- 🥅 2022 Goal: Become an expert flutter developer
+
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/killswitch412#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/killswitch412#gh-dark-mode-only)
 
 <!---
 KillSwitch412/KillSwitch412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
