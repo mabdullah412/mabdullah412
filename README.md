@@ -15,7 +15,12 @@ I am a Junior Year Computer Science Student at Ghulam Ishaq Khan Institute (GIKI
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=killswitch412&repo=sorting-algorithms-visualizer-js&theme=dracula)](https://github.com/KillSwitch412/sorting-algorithms-visualizer-js)
 
 ## Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/killswitch412)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/killswitch412/)  
+
+[![website](./img/twitter-light.svg)](https://twitter.com/killswitch412#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/killswitch412#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/killswitch412#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/killswitch412#gh-dark-mode-only)
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=killswitch412&show_icons=true&theme=dracula)
