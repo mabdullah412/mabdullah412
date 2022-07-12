@@ -2,7 +2,7 @@
 
 I am a Junior Year Computer Science Student at Ghulam Ishaq Khan Institute (GIKI), Pakistan.
 - 🥅 2022 Goal: Become an expert flutter developer
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Flutter and React
 
 ## Connect with me
 
