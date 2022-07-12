@@ -22,6 +22,7 @@ I am a Junior Year Computer Science Student at Ghulam Ishaq Khan Institute (GIKI
 ## My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=killswitch412&repo=online-event-service-marketplace-flutter&theme=dracula)](https://github.com/KillSwitch412/online-event-service-marketplace-flutter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=killswitch412&repo=sorting-algorithms-visualizer-js&theme=dracula)](https://github.com/KillSwitch412/sorting-algorithms-visualizer-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=killswitch412&repo=whatsapp-clone-flutter&theme=dracula)](https://github.com/KillSwitch412/whatsapp-clone-flutter)
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=killswitch412&show_icons=true&theme=dracula)
