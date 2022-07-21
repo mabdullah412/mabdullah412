@@ -1,8 +1,9 @@
 # Hi there, I'm Abdullah 👋
 
 I am a Junior Year Computer Science Student at Ghulam Ishaq Khan Institute (GIKI), Pakistan.
+- 🔭 I'm currently working on healthcare app
 - 🥅 2022 Goal: Become an expert flutter developer
-- 🌱 I’m currently learning Flutter and React
+- 🌱 I’m currently learning Flutter
 
 ## Connect with me
 
