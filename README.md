@@ -17,6 +17,7 @@ I am a Junior Year Computer Science Student at Ghulam Ishaq Khan Institute (GIKI
 * 📱 FLUTTER
 * 💻 HTML, CSS, Bootstrap, CSS
 * 👩‍💻 NodeJS, ExpressJS, MongoDB
+* 🌐 C/C++, JavaScript, Python
 
 <!-- ## Languages and Tools -->
 
