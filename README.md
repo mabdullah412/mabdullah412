@@ -22,7 +22,7 @@ I am a Junior Year Computer Science Student at Ghulam Ishaq Khan Institute (GIKI
 
 ## My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mabdullah412&repo=event-services-marketplace&theme=dracula)](https://github.com/mabdullah412/event-services-marketplace)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mabdullah412&repo=event-services-marketplace-api&theme=dracula)](https://github.com/mabdullah412/event-services-marketplace-api)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mabdullah412&repo=event-services-marketplace-api&theme=dracula)](https://github.com/mabdullah412/event-services-marketplace-api) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mabdullah412&repo=sorting-algorithms-visualizer-js&theme=dracula)](https://github.com/mabdullah412/sorting-algorithms-visualizer-js)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mabdullah412&repo=whatsapp-clone-flutter&theme=dracula)](https://github.com/mabdullah412/whatsapp-clone-flutter) -->
 
