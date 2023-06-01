@@ -2,8 +2,8 @@
 
 I am a Junior Year Computer Science Student at Ghulam Ishaq Khan Institute (GIKI), Pakistan.
 <!-- - 🔭 I'm currently working on healthcare app with Flutter and Node -->
-- 🥅 2022 Goal: Become an expert flutter developer
-- 🌱 I’m currently learning Flutter, Node, Express, MongoDB
+<!-- - 🥅 2022 Goal: Become an expert flutter developer -->
+<!-- - 🌱 I’m currently learning Flutter, Node, Express, MongoDB -->
 
 ## Connect with me
 
