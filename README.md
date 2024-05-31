@@ -2,7 +2,7 @@
 
 ![Header](/images/github-readme%20header-03.png)
 
-<h3 align="center">A 21 year old fresh grad skilled in full stack web development & with mobile development with Flutter. Currently doing freelance work on upwork and fiverr.</h3>
+<h4 align="center">A 21 year old fresh grad skilled in full stack web development & with mobile development with Flutter. Currently doing freelance work on upwork and fiverr.</h4>
 
 <br>
 
