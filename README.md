@@ -1,4 +1,6 @@
-<p align="center"><a href="https://github.com/mabdullah412"><img width="100%" alt="Hello, I'm Abdullah. I do Full Stack and Flutter" src="./images/github-readme-header-03.png" /></a></p>
+<!-- <p align="center"><a href="https://github.com/mabdullah412"><img width="100%" alt="Hello, I'm Abdullah. I do Full Stack and Flutter" src="./images/github-readme-header-03.png" /></a></p> -->
+
+![Header](/images/github-readme%20header-03.png)
 
 <h3 align="center">A 21 year old fresh grad skilled in full stack web development & with mobile development with Flutter. Currently doing freelance work on upwork and fiverr.</h3>
 
